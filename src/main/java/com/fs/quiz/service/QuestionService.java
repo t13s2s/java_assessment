@@ -1,4 +1,4 @@
-package com.stepstone.quiz.service;
+package com.fs.quiz.service;
 
 import java.util.List;
 

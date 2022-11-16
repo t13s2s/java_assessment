@@ -1,4 +1,4 @@
-package com.stepstone.quiz.controller;
+package com.fs.quiz.controller;
 
 import org.junit.jupiter.api.Test;
 

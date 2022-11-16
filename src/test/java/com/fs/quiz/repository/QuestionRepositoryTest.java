@@ -1,4 +1,4 @@
-package com.stepstone.quiz.repository;
+package com.fs.quiz.repository;
 
 import org.junit.jupiter.api.Test;
 

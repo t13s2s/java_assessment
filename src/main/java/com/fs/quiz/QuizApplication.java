@@ -1,4 +1,4 @@
-package com.stepstone.quiz;
+package com.fs.quiz;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

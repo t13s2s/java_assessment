@@ -1,4 +1,4 @@
-package com.stepstone.quiz.controller;
+package com.fs.quiz.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

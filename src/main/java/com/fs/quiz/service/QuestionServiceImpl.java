@@ -1,6 +1,6 @@
-package com.stepstone.quiz.service;
+package com.fs.quiz.service;
 
-import com.stepstone.quiz.repository.QuestionRepository;
+import com.fs.quiz.repository.QuestionRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -13,7 +13,7 @@ The project is built with Maven with and can be packaged like so;
 $ mvn clean package
 
 The site can be run from the main class;
-com.stepstone.quiz.QuizApplication
+com.fs.quiz.QuizApplication
 
 Or executed from the runnable jar;
 $ java -jar quiz-0.0.1-SNAPSHOT.jar
